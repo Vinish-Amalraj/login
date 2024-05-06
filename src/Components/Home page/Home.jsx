@@ -1,13 +1,9 @@
-// Home.js
-import React from 'react';
+import React from "react";
 
 function Home() {
   return (
-   <div>
-     
+    <div>
       <h1>welcome </h1>
-     
-
     </div>
   );
 }

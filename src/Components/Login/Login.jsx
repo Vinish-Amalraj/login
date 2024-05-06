@@ -1,8 +1,7 @@
-// Login.js
 import React, { useState } from 'react';
 import './login.css';
 import axios from 'axios';
-import { Navigate } from 'react-router-dom'; // Import useNavigate correctly
+import { Navigate } from 'react-router-dom'; 
 import ProtectedRoute from '../ProtectedRoute';
 
 const Login = () => {

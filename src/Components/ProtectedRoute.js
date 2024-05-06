@@ -1,6 +1,3 @@
-// ProtectedRoute.js
-
-
 const ProtectedRoute = () => {
   const token = localStorage.getItem('token');
 
